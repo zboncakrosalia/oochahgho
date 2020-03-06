@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quaexovaef.laxaltandmciver.co/sitemap.xml
